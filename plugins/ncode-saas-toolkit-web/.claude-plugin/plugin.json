@@ -1,7 +1,7 @@
 {
   "name": "ncode-saas-toolkit-web",
   "description": "Web track extension for nCode course. Next.js + Supabase + Vercel + AI SDK + Gemini + Polar + Resend.",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "author": {
     "name": "Daniel Goldman",
     "url": "https://danielthegoldman.com"
